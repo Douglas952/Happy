@@ -1,0 +1,10 @@
+# Global
+node_modules
+yarn.lock
+
+#backend
+backend/uploads/*
+backend/src/database/database.sqlite
+
+#web
+web/public/favicon.ico
